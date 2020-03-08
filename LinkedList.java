@@ -1,4 +1,4 @@
-package Practice06;
+// package Practice06;
 
 /**
  * Practice assigment 06:
